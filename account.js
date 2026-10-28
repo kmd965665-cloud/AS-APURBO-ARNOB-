@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)"AS APURBO ARNOB TOP UP":
 // =======================================================
-var website_name = "AS APURBO ARNOB":
+var website_name = "AS APURBO ARNOB top up":
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
